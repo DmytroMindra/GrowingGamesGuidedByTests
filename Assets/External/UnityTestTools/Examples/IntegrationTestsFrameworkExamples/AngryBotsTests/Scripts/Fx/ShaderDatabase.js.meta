@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 916de0f971c01479cbfc7f8c3bee15e8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bloomApplyShader: {fileID: 4800000, guid: 5b178b6436dd14f6a86a3be430ae078f, type: 3}
+  - bloomBlendApplyShader: {fileID: 4800000, guid: c0cec07085658475fa50791b31d66ec8,
+      type: 3}
+  - blurShader: {fileID: 4800000, guid: 22e377d9435104f43a9a40415984843a, type: 3}
+  - noiseShader: {fileID: 4800000, guid: 4fc2e4a4fe2914a30819c481958f3b00, type: 3}
+  - noiseTexture: {fileID: 2800000, guid: d1bd32e2f0342418a81f73b582e0b4a2, type: 3}
+  - uberShader: {fileID: 4800000, guid: d3fe6e8745b794a77bfeb9a10c0fdddb, type: 3}
+  - reflectiveSurface: {instanceID: 0}
+  - reflectiveMaterial: {fileID: 2100000, guid: 22b43c3aa0097483d92b4cca9adbb7f3,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
