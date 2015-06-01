@@ -13,7 +13,7 @@ This tutorial uses Unity Test Tools to arrange integration tests and is compatib
 * See them fail
 * Fix the tests
 * Run the tests and them succeed
-* Open The Game.unity and lunch the game to see your progress :)
+* Open The Game.unity and launch the game to see your progress :)
 * Proceed to level 2 :)
 
 Hint:
