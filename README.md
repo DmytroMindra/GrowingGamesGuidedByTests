@@ -5,7 +5,7 @@ The project from my ACCU conference talk.
 
 This tutorial uses Unity Test Tools to arrange integration tests and is compatible with Unity 4.3+.
 
-###How to use this tutorial?
+### How to use this tutorial?
 * Navigate to Assets/Scenes
 * Open Level 1 - Let's Move.unity
 * Open Integration test runner
@@ -21,7 +21,7 @@ Assets/Solutions folder contains all the solutions that can bring you to the nex
 
 Have fun!
 
-###Open Source assets that were used to build this tutorial:
+### Open Source assets that were used to build this tutorial:
 
 Laser Sounds
 http://opengameart.org/content/63-digital-sound-effects-lasers-phasers-space-etc
